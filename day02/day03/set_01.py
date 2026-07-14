@@ -1,0 +1,6 @@
+s1 = set()
+s1.add(20)
+s1.add(20.0)
+s1.add('20')
+length = len(s1)
+print("Length of the set:",length)
