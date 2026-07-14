@@ -16,8 +16,4 @@ elif c>d:
     print(f"c: {c} is greater")
 else:
     print(f"d: {d} is greater")
-
     
-
-
-
